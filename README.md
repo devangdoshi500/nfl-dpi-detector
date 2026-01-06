@@ -1,2 +1,2 @@
 # nfl-dpi-detector
-Computer vision project to classify potential defensive pass interference from NFL games
+Using computer vision and machine learning to classify potential defensive pass interference in NFL games

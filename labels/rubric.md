@@ -27,7 +27,7 @@ Label as 1 if (any):
 
 Label as 0 if (any):
 - Incidental contact without restriction
-- Both players play the ball with minimal contact
+- All involved players play the ball with minimal contact
 - Contact occurs after ball arrives and does not restrict the catch attempt
 
 Clips showcasing edge cases will not be included in initial versions

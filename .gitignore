@@ -213,3 +213,6 @@ data/
 *.mov
 *.avi
 .DS_Store
+*.jpg
+*.jpeg
+

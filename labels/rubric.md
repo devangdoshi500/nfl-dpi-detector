@@ -31,3 +31,4 @@ Label as 0 if (any):
 - Contact occurs after ball arrives and does not restrict the catch attempt
 
 Clips showcasing edge cases will not be included in initial versions
+All clips include occur in real time with the official broadcast angle
